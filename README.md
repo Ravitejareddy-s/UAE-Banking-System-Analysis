@@ -13,7 +13,7 @@ It was 1.16 Million of Dataset in 2 different spread sheets which were combined 
 2- Microsft Excel/Power Querry 
 3- MYSQL Workbench
 
-# Skills to be utilized:
+## Skills to be utilized:
 1- Data Merging
 2- Data Cleansing
 3- ETL 
