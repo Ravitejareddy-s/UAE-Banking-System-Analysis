@@ -2,13 +2,13 @@
 
 It was 1.16 Million of Dataset in 2 different spread sheets which were combined and then joined with another excel file having different columns using Primary Key and Reference Key. 
 
-# The Files that were Given:
+## The Files that were Given:
 
 1- Part 1 Data having 500K+ Accounts Data
 2- Part 2 Data having 600K+ Accounts Data
 3- Linkage Accounts with Cards and Balance Data
 
-# Software to utilize:
+## Software to utilize:
 1- Power BI/Power Querry
 2- Microsft Excel/Power Querry 
 3- MYSQL Workbench
@@ -19,7 +19,7 @@ It was 1.16 Million of Dataset in 2 different spread sheets which were combined 
 3- ETL 
 4- Data Visualization 
 
-# Deliverables Reports/Dashboards Features:
+## Deliverables Reports/Dashboards Features:
 
 1- Total Number of Cards with each Card Status 
 
